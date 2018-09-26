@@ -1,0 +1,42 @@
+Senin, 10 September 2018
+Dihadiri oleh: Imam Nur Bani Yusuf - Taufik Rahmad
+Agenda:
+-brainstorming ide
+-timeline kasar
+-membuat akun gist
+
+
+1. Brainstorming ide
+alternatif ide:
+-smart parking
+aplikasi yang memonitoring kondisi tempat parkir, menunjukkan tempat parkir, dan bisa digunakan untuk melakukan pembayaran parkir.
+-smart penitipan
+aplikasi yang digunakan untuk memesan loker penitipan. aplikasi ini akan menggenerate code yang digunakan untuk mengakses loker tsb. aplikasinya bisa diaplikasikan di perpustakaan dan penitipan helm. aplikasi ini juga bisa digunakan untuk melakukan pembayaran.
+-guest manager
+aplikasi yang digunakan sebagai pengganti tanda kehadiran dalam sebuah acara. pengguna cukup men scan barcode untuk absensi dalam sebuah acara seperti sebuah conference.
+-smart colokan
+ini udah termasuk yang di bawah
+-smart home
+aplikasi yang bisa mengontrol perangkat-perangkat yang ada dirumah, seperti lampu, pintu garasi, stopkontak, dll.
+
+
+Pemilihan ide:
+smart home -> karena aplikatif, tingkat kesulitan tidak terlalu rumit dan tidak terlalu mudah, dan waktu pengerjaannya diestimasikan sesuai dengan slot waktu yang ada. faktor yang paling penting -> sudah ada bayangan mengenai aplikasinya.
+
+Timeline kasar
+Sisa pertemuan: 15 minggu - 4 minggu = 11 minggu.
+Sekarang minggu ke 4
+
+
+Minggu 4: Fiksasi ide
+Minggu 5: Breakdown ide menjadi fitur-fitur yang diperlukan. Dari fitur-fitur yang diperlukan, di breakdown lagi menjadi task. Update timeline
+Minggu 6: Pengerjaan task-task hasil breakdown
+Minggu 7: Pengerjaan task-task hasil breakdown
+Minggu 8: Pengerjaan task-task hasil breakdown
+Minggu 9: integrasi fitur-fitur yang ada
+Minggu 10: debugging aplikasi
+Minggu 11: debugging aplikasi
+Minggu 12: Fiksasi aplikasi 
+Minggu 13: Finisihing aplikasi
+Minggu 14: Presentasi
+Minggu 15: Presentasi
